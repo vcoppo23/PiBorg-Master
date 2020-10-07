@@ -1,2 +1,2 @@
 # PiBorg-Master
-PiBorg Project-Evan Nowlin, Ashton Hartmen, Tommy Medina, Val Coppo, Gabe Mankowski
+PiBorg Project-Evan Nowlin, Ashton Hartman, Tommy Medina, Val Coppo, Gabe Mankowski
