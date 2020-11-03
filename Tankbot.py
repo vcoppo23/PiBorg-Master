@@ -1,3 +1,4 @@
+# Tank Robot Controller - Gabe Mankowski
 x = 1
 L = 1 #Left Motor
 R = 0 # Right Motor
@@ -6,7 +7,7 @@ RS = 17 #Right Sensor
 RPL.pinMode(LS,RPL.INPUT)
 RPL.pinMode(RS,RPL.INPUT)
 
-# Tank Robot Controller - Val Coppo
+
 # Template for PiBorg code
 
 import RoboPiLib as RoboPi
